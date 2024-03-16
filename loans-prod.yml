@@ -1,7 +1,7 @@
 loans:
   message: "Welcome to EazyBank loans related local APIs Production with latest Version with webhook"
   contactDetails:
-    name: "HieuNguyen - Product Owner"
+    name: "HieuNguyen - Product Owner docker compose update Version1"
     email: "hieunm123.ptit@gmail.com"
     onCallSupport:
       - 0987975814
