@@ -1,7 +1,7 @@
 cards:
   message: "Welcome to EazyBank cards related local APIs Production with latest Version with webhook"
   contactDetails:
-    name: "HieuNguyen - Product Owner docker compose update Version1"
+    name: "HieuNguyen - Product Owner"
     email: "hieunm123.ptit@gmail.com"
     onCallSupport:
       - 0987975814
