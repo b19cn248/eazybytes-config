@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIs Production"
+  message: "Welcome to EazyBank accounts related local APIs Production with latest Version with webhook"
   contactDetails:
     name: "Hieu PC - Product Owner with docker MYSQL"
     email: "{cipher}d161ea3b63f737c68a6b0897e4bc3c1f349702985b947757756835708701047302c673308d3466b1fe3ee3d77d30dd8f"
